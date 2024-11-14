@@ -1,0 +1,29 @@
+.titulo{
+    font-size:30px;
+    font-family:Arial, Helvetica, sans-serif
+}
+.nome{
+    border-radius: 30px;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+.botao{ 
+    width: 200px;
+    height: 30px;
+}
+.corpo{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.div{
+    width: 100%;
+    margin: auto;
+
+}
+table{
+    margin: auto;
+}
