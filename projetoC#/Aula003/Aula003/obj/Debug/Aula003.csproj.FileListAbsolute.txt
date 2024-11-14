@@ -1,0 +1,7 @@
+C:\Users\F2-08\Desktop\projetoC#\Aula003\Aula003\bin\Debug\Aula003.exe.config
+C:\Users\F2-08\Desktop\projetoC#\Aula003\Aula003\bin\Debug\Aula003.exe
+C:\Users\F2-08\Desktop\projetoC#\Aula003\Aula003\bin\Debug\Aula003.pdb
+C:\Users\F2-08\Desktop\projetoC#\Aula003\Aula003\obj\Debug\Aula003.csproj.AssemblyReference.cache
+C:\Users\F2-08\Desktop\projetoC#\Aula003\Aula003\obj\Debug\Aula003.csproj.CoreCompileInputs.cache
+C:\Users\F2-08\Desktop\projetoC#\Aula003\Aula003\obj\Debug\Aula003.exe
+C:\Users\F2-08\Desktop\projetoC#\Aula003\Aula003\obj\Debug\Aula003.pdb

@@ -1,0 +1,7 @@
+C:\Users\F2-08\Desktop\projetoC#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe.config
+C:\Users\F2-08\Desktop\projetoC#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.exe
+C:\Users\F2-08\Desktop\projetoC#\PrimeiraAula\PrimeiraAula\bin\Debug\PrimeiraAula.pdb
+C:\Users\F2-08\Desktop\projetoC#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.AssemblyReference.cache
+C:\Users\F2-08\Desktop\projetoC#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.csproj.CoreCompileInputs.cache
+C:\Users\F2-08\Desktop\projetoC#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.exe
+C:\Users\F2-08\Desktop\projetoC#\PrimeiraAula\PrimeiraAula\obj\Debug\PrimeiraAula.pdb

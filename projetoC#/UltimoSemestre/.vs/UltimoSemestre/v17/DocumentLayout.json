@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\ultimosemestre\\ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\ultimosemestre\\ultimosemestre\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\empregado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\ultimosemestre\\ultimosemestre\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\ultimosemestre\\ultimosemestre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\ultimosemestre\\ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\frmtelainicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\ultimosemestre\\ultimosemestre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\ultimosemestre\\ultimosemestre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6B3C363-36E9-4034-9E72-E2C7E11CD338}|UltimoSemestre\\UltimoSemestre.csproj|solutionrelative:ultimosemestre\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Program.cs",
+              "RelativeDocumentMoniker": "UltimoSemestre\\Program.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Program.cs",
+              "RelativeToolTip": "UltimoSemestre\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:35:16.414Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTelaInicial.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\frmTelaInicial.cs",
+              "RelativeDocumentMoniker": "UltimoSemestre\\frmTelaInicial.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\frmTelaInicial.cs [Projeto]",
+              "RelativeToolTip": "UltimoSemestre\\frmTelaInicial.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:45:26.153Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Form2.cs",
+              "RelativeDocumentMoniker": "UltimoSemestre\\Form2.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Form2.cs [Projeto]",
+              "RelativeToolTip": "UltimoSemestre\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:44:59.093Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empregado.cs",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Empregado.cs",
+              "RelativeDocumentMoniker": "UltimoSemestre\\Empregado.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Empregado.cs",
+              "RelativeToolTip": "UltimoSemestre\\Empregado.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA4wD4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:40:51.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTelaInicial.cs",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\frmTelaInicial.cs",
+              "RelativeDocumentMoniker": "UltimoSemestre\\frmTelaInicial.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\frmTelaInicial.cs",
+              "RelativeToolTip": "UltimoSemestre\\frmTelaInicial.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIA9wCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:36:21.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Form1.cs",
+              "RelativeDocumentMoniker": "UltimoSemestre\\Form1.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Form1.cs [Projeto]",
+              "RelativeToolTip": "UltimoSemestre\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:30:31.033Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Form1.cs",
+              "RelativeDocumentMoniker": "UltimoSemestre\\Form1.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\UltimoSemestre\\UltimoSemestre\\Form1.cs",
+              "RelativeToolTip": "UltimoSemestre\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:50:19.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\bin\Debug\PrimeiroProjetoDesktop.exe.config
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\bin\Debug\PrimeiroProjetoDesktop.exe
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\bin\Debug\PrimeiroProjetoDesktop.pdb
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\obj\Debug\PrimeiroProjetoDesktop.csproj.AssemblyReference.cache
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\obj\Debug\PrimeiroProjetoDesktop.Form1.resources
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\obj\Debug\PrimeiroProjetoDesktop.Properties.Resources.resources
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\obj\Debug\PrimeiroProjetoDesktop.csproj.GenerateResource.cache
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\obj\Debug\PrimeiroProjetoDesktop.csproj.CoreCompileInputs.cache
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\obj\Debug\PrimeiroProjetoDesktop.exe
+C:\Users\F2-08\Desktop\projetoC#\PrimeiroProjetoDesktop\PrimeiroProjetoDesktop\obj\Debug\PrimeiroProjetoDesktop.pdb

@@ -1,0 +1,7 @@
+C:\Users\F2-08\Desktop\projetoC#\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe.config
+C:\Users\F2-08\Desktop\projetoC#\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.exe
+C:\Users\F2-08\Desktop\projetoC#\ProjetoClasses\ProjetoClasses\bin\Debug\ProjetoClasses.pdb
+C:\Users\F2-08\Desktop\projetoC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.AssemblyReference.cache
+C:\Users\F2-08\Desktop\projetoC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.csproj.CoreCompileInputs.cache
+C:\Users\F2-08\Desktop\projetoC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.exe
+C:\Users\F2-08\Desktop\projetoC#\ProjetoClasses\ProjetoClasses\obj\Debug\ProjetoClasses.pdb

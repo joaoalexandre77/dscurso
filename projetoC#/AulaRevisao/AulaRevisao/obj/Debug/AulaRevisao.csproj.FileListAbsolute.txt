@@ -1,0 +1,7 @@
+C:\Users\F2-08\Desktop\projetoC#\AulaRevisao\AulaRevisao\bin\Debug\AulaRevisao.exe.config
+C:\Users\F2-08\Desktop\projetoC#\AulaRevisao\AulaRevisao\bin\Debug\AulaRevisao.exe
+C:\Users\F2-08\Desktop\projetoC#\AulaRevisao\AulaRevisao\bin\Debug\AulaRevisao.pdb
+C:\Users\F2-08\Desktop\projetoC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.csproj.AssemblyReference.cache
+C:\Users\F2-08\Desktop\projetoC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.csproj.CoreCompileInputs.cache
+C:\Users\F2-08\Desktop\projetoC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.exe
+C:\Users\F2-08\Desktop\projetoC#\AulaRevisao\AulaRevisao\obj\Debug\AulaRevisao.pdb

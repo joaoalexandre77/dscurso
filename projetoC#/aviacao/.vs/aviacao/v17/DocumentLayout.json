@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\F2-08\\Desktop\\projetoC#\\aviacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74ED733-7CF7-430C-87A7-F4389335D3E4}|aviacao\\aviacao.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\aviacao\\aviacao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74ED733-7CF7-430C-87A7-F4389335D3E4}|aviacao\\aviacao.csproj|solutionrelative:aviacao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74ED733-7CF7-430C-87A7-F4389335D3E4}|aviacao\\aviacao.csproj|c:\\users\\f2-08\\desktop\\projetoc#\\aviacao\\aviacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74ED733-7CF7-430C-87A7-F4389335D3E4}|aviacao\\aviacao.csproj|solutionrelative:aviacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\aviacao\\aviacao\\Class1.cs",
+              "RelativeDocumentMoniker": "aviacao\\Class1.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\aviacao\\aviacao\\Class1.cs*",
+              "RelativeToolTip": "aviacao\\Class1.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:06:49.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\F2-08\\Desktop\\projetoC#\\aviacao\\aviacao\\Program.cs",
+              "RelativeDocumentMoniker": "aviacao\\Program.cs",
+              "ToolTip": "C:\\Users\\F2-08\\Desktop\\projetoC#\\aviacao\\aviacao\\Program.cs",
+              "RelativeToolTip": "aviacao\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:04:02.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

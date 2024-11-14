@@ -1,0 +1,7 @@
+C:\Users\F2-08\Desktop\projetoC#\aviacao\aviacao\bin\Debug\aviacao.exe.config
+C:\Users\F2-08\Desktop\projetoC#\aviacao\aviacao\bin\Debug\aviacao.exe
+C:\Users\F2-08\Desktop\projetoC#\aviacao\aviacao\bin\Debug\aviacao.pdb
+C:\Users\F2-08\Desktop\projetoC#\aviacao\aviacao\obj\Debug\aviacao.csproj.AssemblyReference.cache
+C:\Users\F2-08\Desktop\projetoC#\aviacao\aviacao\obj\Debug\aviacao.csproj.CoreCompileInputs.cache
+C:\Users\F2-08\Desktop\projetoC#\aviacao\aviacao\obj\Debug\aviacao.exe
+C:\Users\F2-08\Desktop\projetoC#\aviacao\aviacao\obj\Debug\aviacao.pdb
